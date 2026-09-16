@@ -1,3 +1,4 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mayankanaik04/Implement-Fundamental-ML-Algorithms-from-First-Principles-Scratch-)
 # Implement Fundamental ML Algorithms from First Principles (Scratch)
 
 A from-scratch implementation of **Linear Regression**, **Logistic Regression**, and **K-Nearest Neighbors (KNN)** using only NumPy for the core mathematics, benchmarked against their Scikit-Learn reference implementations.
